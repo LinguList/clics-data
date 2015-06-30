@@ -6,3 +6,10 @@ This is a data-directory for CLICS where we store and edit and exchange new data
 * wordnet: original tests on automatic mapping have been made, added an extract from the main-data to conceptlists/ folder (far too many words and definitions, yet we may need them for exact mapping)
 * simlex: data in good shape and can be used both for network creation and comparison, added tsv-version to conceptlists/ folder
 * ufc: offers a network-tsv-file which has been added as conceptlists/UFC.tsv
+
+
+# further datasets
+
+* [http://www.cs.cmu.edu/~mfaruqui/suite.html](http://www.cs.cmu.edu/~mfaruqui/suite.html) offers a broad connection of different datasets for word pair similarity, based on different criteria.
+
+
